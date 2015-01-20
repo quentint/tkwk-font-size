@@ -1,0 +1,3 @@
+@mixin tkwk-font-size($px-font-size, $px-line-height) {
+	@include inuit-font-size($px-font-size * 1px, $px-line-height/$px-font-size);
+}

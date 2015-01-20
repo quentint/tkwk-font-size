@@ -1,0 +1,22 @@
+{
+  "name": "tkwk-font-size",
+  "version": "0.1.0",
+  "homepage": "https://github.com/quentint/tkwk-font-size",
+  "authors": [
+    "Quentin <quentin.t@gmail.com>"
+  ],
+  "description": "inuitcss based font sizing mixin",
+  "main": "_tools.font-size.scss",
+  "keywords": [
+    "css",
+    "sass",
+    "font",
+    "size",
+    "tkwk",
+    "mixin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "inuit-mixins": "~0.2.3"
+  }
+}

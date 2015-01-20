@@ -1,0 +1,15 @@
+@import "../bower_components/inuit-defaults/settings.defaults";
+@import "../bower_components/inuit-mixins/tools.mixins";
+@import "../tools.font-size";
+
+h1 {
+	@include tkwk-font-size(30, 40);
+}
+
+p {
+	@include tkwk-font-size(16, 18);
+}
+
+blockquote {
+	@include tkwk-font-size(20, 20);
+}
